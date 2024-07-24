@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://my-blog-card-preview.netlify.app/)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/responsive-blog-preview-card-J2GR8xcU0Q)
 - Live Site URL: [Add live site URL here](https://my-blog-card-preview.netlify.app/)
 
 ## My process
